@@ -1,0 +1,2 @@
+/*Write a program that reads in one natural number and then writes out a message telling 
+whether the given number has exactly two digits. */
